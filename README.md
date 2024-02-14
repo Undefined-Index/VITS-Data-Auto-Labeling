@@ -9,7 +9,8 @@ A script that uses FunASR for Bert-VITS2 and GPT-SoVITS vocal data labeling
 -使用FunASR进行语音识别
 -从音频文件中删除无人声时间超过2秒的片段，只保留有人说话的部分去除空白间断。
 
-###Installation|安装
+
+### Installation|安装
 
     pip install -r requirements.txt
     python main.py
